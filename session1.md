@@ -1,4 +1,4 @@
-# Live Coding Session 1
+# Coding Session 1
 
 > This sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the live coding session before the live coding session itself. You do not need to solve any of the tasks, but have a general understanding of it.
 
