@@ -1,4 +1,4 @@
-# Python graded tasks
+# Python Getting started
 > This graded tasks gives you the fundementals of python. It is more an Introduction to python programming.
 
 ## Tasks
