@@ -1,8 +1,8 @@
 # Coding Session 5
 
-> The coding sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the coding session itself. You do not need to solve any of the tasks, but have a general understanding of it.
+> The coding sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the coding session itself. 
 
-The last live coding session is about _data structures_. Mainly about the ones that are built-in to the language, but we will also look a bit at implementing data structures yourself. This includes understanding a bit of data classes, which are a subset of classes from object orientation but made much simpler.
+The last coding session is about _data structures_. Mainly about the ones that are built-in to the language, but we will also look a bit at implementing data structures yourself. This includes understanding a bit of data classes, which are a subset of classes from object orientation but made much simpler.
 
 <!-- 
 ## Task 1
