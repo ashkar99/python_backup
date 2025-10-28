@@ -1,6 +1,6 @@
 # Coding Session 2
 
-> The coding sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the live coding session itself. You do not need to solve any of the tasks, but have a general understanding of it.
+> The coding sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the coding session itself. 
 
 In this coding session, we take a deeper look into iteration and how to make things happen again and again. As this can be done in many different ways, we spend some time to explore this. In addition to this, we also look at functions and how they work. We will construct our functions and call them in different ways in different places in our code.
 
