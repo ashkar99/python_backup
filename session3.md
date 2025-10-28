@@ -1,6 +1,6 @@
 # Coding Session 3
 
-> The coding sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the coding session itself. You do not need to solve any of the tasks, but have a general understanding of it.
+> The coding sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the coding session itself. 
 
 The purpose of this session is to have a further look at how to use classes and objects that are available for you in Python. This means to call methods on objects that are available in the standard library. This session is also about _lists_ in Python. We will add, remove and search for elements in lists as well as use them with functions.
 
