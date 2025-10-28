@@ -1,5 +1,5 @@
 # Python Getting started
-> This graded tasks gives you the fundementals of python. It is more an Introduction to python programming.
+> This file contains a collection of introductory Python exercises focused on input/output operations, arithmetic, conditionals, and basic logic. The tasks gradually build programming fundamentals through small, practical problems such as temperature conversion, time calculations, random number generation, and tax computation.
 
 ## Tasks
 ### Input/Output, Operations on Primitive Types
