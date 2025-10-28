@@ -1,6 +1,6 @@
 # Coding Session 4
 
-> The coding sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the coding session itself. You do not need to solve any of the tasks, but have a general understanding of it.
+> The coding sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the coding session itself. 
 
 In this session the focus is on file I/O, that is how to read and write to files. It should be noted that it does not have to be files on a disk, but could be to and from the internet as well. We will primarily work with _text files_ and not with binary files. With this, we will also look at exception handling as that is preferred when using files. 
 
