@@ -1,6 +1,6 @@
 # Coding Session 1
 
-> This sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the live coding session before the live coding session itself. You do not need to solve any of the tasks, but have a general understanding of it.
+> This sessions are here to help you get started and to understand, you may also ask questions. It is, however, important to read up on and try to understand the parts in the coding session before the live coding session itself. 
 
 This first coding session focuses on getting to know Python as well as the development environment to use it (usually Visual Studio Code). The idea is to get familiar with the tools and the process of developing software. 
 
